@@ -1,5 +1,7 @@
 # 👾 Conway's Game of Life
 
+![gameoflife](http://www.diga.me.uk/LifeAnimation.gif)
+
 
 ## Dependencies
 
